@@ -31,7 +31,7 @@ public class ToadWebActivity extends ToadBaseWebActivity implements IProxyListen
         displayCustomMenuItem(2, "膜乎", "https://www.mohu.club/");
         displayCustomMenuItem(3, "辱乎", "https://www.ruhu.ml/");
         displayCustomMenuItem(4, "品葱", "https://www.pin-cong.com/");
-        displayCustomMenuItem(9, "无法正常使用？", "https://toadbucket.bitbucket.io/");
+        displayCustomMenuItem(9, "反馈/留言", "https://www.mohu.club/m/article/170");
         displayCustomMenuItem(10, "关于...", "https://github.com/toadapp/toad-android");
     }
 
